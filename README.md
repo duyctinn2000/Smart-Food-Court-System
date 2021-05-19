@@ -1,2 +1,2 @@
-# SmartFoodCourtSystem
+# Smart Food Court System
 
